@@ -1,0 +1,25 @@
+.body {
+  background-color: lightgray;
+}
+
+#profile-wrapper{
+    text-align: center;
+}
+
+#profile-pic{
+    width:180px;
+    height:150px;
+    border-radius:50%;
+    margin-left:auto;
+    margin-right:auto;
+}
+#col-9{
+    padding:5%;
+
+}
+
+.pic{
+    width:80px;
+    height:80px;
+
+}
